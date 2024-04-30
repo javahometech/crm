@@ -8,6 +8,8 @@ Before you begin, ensure you have the following installed:
 
 - Java Development Kit 17 (JDK)
 - Apache Maven
+- Default Port is 8080
+- To change the default port update `crm/src/main/resources/application.properties`
 
 ## Building the Application
 
