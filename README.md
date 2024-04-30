@@ -6,7 +6,7 @@ This README provides steps to build and run a Java application using Maven.
 
 Before you begin, ensure you have the following installed:
 
-- Java Development Kit (JDK)
+- Java Development Kit 17 (JDK)
 - Apache Maven
 
 ## Building the Application
